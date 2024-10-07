@@ -18,7 +18,7 @@ The package processamento_imagem is used to:
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install dio-desafio-pacote-processamento-imagem
 
 ```bash
-pip install dio-desafio-pacote-processamento-imagem
+pip install pacote-processamento-imagem
 ```
 
 ## Author
